@@ -1,0 +1,129 @@
+[
+    {
+        "arrangement": "Vriendinnendag", 
+        "prijs_ma": 98.95, 
+		"prijs_di_do": 94.95, 
+		"prijs_vr": 99.95, 
+		"prijs_za": 103.95, 
+		"prijs_zo": 104.95, 
+		
+        "imageUrl": "angular/arrangmentenkiezer/app/img/komkomerlogo_breed.jpg", 
+        "name": "Vriendinnendag", 
+        "omschrijving1": "Gezelligste verwendag ",
+        "omschr_inh": "*Gezichtsbehandeling en -massage *Gezichtsmasker *Wellness vibrosaun of Snelbruiner *Culinair lunch * Parafine-perzik handpakking *onbeperkt gebruik saladebar *waterbed relaxmassage *Sauna & Tepidarium *all-inclusive",
+		"link": "http://astyle.home.xs4all.nl/beautyfarm2003/vriendinnendag.html",
+		"massage":		"_rsoptie",
+		"bijelkaar":	"_bijelkaar",
+		"privesauna":	"_psoptie",
+		"sauna":		"_saunaja",
+		"groeps":		"_groeps",
+		"duo":			"_duo",
+		"badkleding":	"_bkoptie",
+		"gezicht":		"_gezicht"
+    }, 
+   {
+        "arrangement": "Good Morning / Good afternoon ", 
+        "prijs_ma": 82.50, 
+		"prijs_di_do": 82.50, 
+		"prijs_vr": 82.50, 
+		"prijs_za": 86, 
+		"prijs_zo": 86, 
+        "imageUrl": "angular/arrangmentenkiezer/app/img/spa_vrouw_in_sauna.JPG", 
+        "name": "Good Morning / Good afternoon ", 
+        "omschrijving1": "Een heerlijke of middag in de beautyfarm",
+        "omschr_inh": "*Gezichtsbehandeling en -massage *Gezichtsmasker *Wellness vibrosaun of Waterbed relaxmassage *Culinair lunch *onbeperkt gebruik saladebar *Parafine-perzik handpakking *wellness mastermassage stoel  *all-inclusive",		
+		"link": "http://astyle.home.xs4all.nl/beautyfarm2003/Halve_dag.html",
+		"massage":		"_rsoptie",
+		"bijelkaar":	"_bijelkaar",
+		"privesauna":	"_nee",
+		"sauna":		"_saunanee",
+		"groeps":		"_groeps",
+		"duo":			"_duo",
+		"badkleding":	"_bkoptie",
+		"gezicht":		"_gezicht"
+    }, 	
+  {
+        "arrangement": "Beautydag M/V", 
+        "prijs_ma": 139.00, 
+        "imageUrl": "angular/arrangementenkiezer/app/img/spa_vrouw_in_sauna.JPG", 
+        "name": "Beautydag M/V", 
+        "omschrijving1": "Lekker met z'n tweeën",
+        "omschr_inh": "*Gezichtsbehandeling en -massage *Gezichtsmasker * *Hot-Stone Massage *Wellness vibrosaun of Snelbruiner *Culinair lunch * Parafine-perzik handpakking *onbeperkt gebruik saladebar *waterbed relaxmassage *Sauna & Tepidarium *all-inclusive",
+		"link": "http://astyle.home.xs4all.nl/beautyfarm2003/beautydag.html",
+		"massage":		"_rsn",
+		"bijelkaar":	"_bijelkaar",
+		"privesauna":	"_privesauna",
+		"sauna":		"_saunaja",
+		"groeps":		"_nee",
+		"duo":			"_duo",
+		"badkleding":	"_bkoptie",
+		"gezicht":		"_gezicht"
+    }, 		
+		   {
+        "arrangement": "Only beautydag", 
+        "prijs": 149.00, 
+        "imageUrl": "angular/arrangmentenkiezer/app/img/komkomerlogo_breed.jpg", 
+        "name": "Only Beautydag", 
+		"massage":		"_rsn",
+		"bijelkaar":	"_bijelkaar",
+		"privesauna":	"_nee",
+		"sauna":		"_saunanee",
+		"groeps":		"_nee",
+		"duo":			"_duo",
+		"badkleding":	"_bkoptie",
+		"gezicht":		"_gezicht"
+    },
+	
+    {
+        "arrangement": "vipdag", 
+        "prijs": 179.00, 
+        "imageUrl": "angular/arrangmentenkiezer/app/img/spa_vrouw_in_sauna.JPG", 
+        "name": "VIPDAG", 
+        "omschrijving1": "Luxe wellness en beautyarrangement",
+		"link": "http://astyle.home.xs4all.nl/beautyfarm2003/VIPdag3.html",
+		"massage":		"__rsn",
+		"bijelkaar":	"_bijelkaar",
+		"privesauna":	"privesauna",
+		"sauna":	"_saunaja",
+		"badkleding":	"2",
+		"gezicht":		"3"
+    },
+
+
+
+	   {
+        "arrangement": "Actie Beautydag", 
+        "prijs": 49.00, 
+        "imageUrl": "angular/arrangmentenkiezer/app/img/komkomerlogo_breed.jpg", 
+        "name": "Actie Beautydag", 
+        "omschrijving1": "Voordelig naar de beautyfarm",
+		"massage":		"__nee",
+		"bijelkaar":	"_nee",
+		"privesauna":	"1",
+		"sauna":	"_saunaja",
+		"badkleding":	"1",
+		"gezicht":		"2"
+    },
+	
+	 {
+        "arrangement": "Spa dag de Luxe", 
+        "prijs": 110, 
+        "imageUrl": "angular/arrangmentenkiezer/app/img/komkomerlogo_breed.jpg", 
+        "name": "Spadag de luxe", 
+        "omschrijving1": "Heerlijk dagje spa met of zonder sauna ",
+        "omschr_inh": "*Gezichtsbehandeling of massagepakking *Wellness vibrosaun of master massagestoel *Culinair lunch * Parafine-perzik handpakking *onbeperkt gebruik saladebar *waterbed relaxmassage *Turks stoombad of Vibrosaun *all-inclusive",
+		"link": "http://astyle.home.xs4all.nl/beautyfarm2003/vriendinnendag.html",
+		"massage":		"_rsoptie",
+		"bijelkaar":	"_bijelkaar",
+		"privesauna":	"_psoptie",
+		"sauna":		"_saunaja",
+		"groeps":		"_groeps",
+		"duo":			"_duo",
+		"badkleding":	"_bkoptie",
+		"gezicht":		"_gezicht"
+    }
+
+
+
+
+	]
